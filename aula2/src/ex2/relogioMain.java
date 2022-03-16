@@ -6,7 +6,7 @@ public class relogioMain {
 		Relogio relogio = new Relogio();
 		relogio.setHora(15);
 		relogio.setMinuto(40);
-		relogio.setSegundo(67);
+		relogio.setSegundo(59);
 		relogio.mostrarHora();
 
 	}
